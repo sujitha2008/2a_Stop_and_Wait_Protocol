@@ -55,7 +55,9 @@ for frame in frames:
 client.close()
 ```
 ## OUTPUT
+# Server
 ![alt text](<Screenshot 2026-02-05 110806 copy.png>)
+# client
 ![alt text](<Screenshot 2026-02-05 110858.png>)
 
 ## RESULT
